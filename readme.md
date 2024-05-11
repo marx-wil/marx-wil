@@ -34,7 +34,8 @@ Driven by my enthusiasm for technology and a desire to expand my skill set, I am
 - **PHP (Hypertext Preprocessor)**: Experience on Server-side scripting language used for building dynamic websites and web applications, often integrated with databases to generate dynamic content.
 - **Laravel**: Currently learning PHP framework for building web applications, providing a robust set of tools and features for efficient development, including routing, authentication, and database management.
 - **MySQL**: Experience on open-source relational database management system (RDBMS) used for storing and managing data in web applications, commonly paired with PHP for backend development.
-- **AJAX (Asynchronous JavaScript and XML)**: Currently learning technique for creating dynamic and interactive web applications by asynchronously sending and receiving data from a web server without reloading the entire page.
+- **AJAX (Asynchronous JavaScript and XML)**: Expeience in technique for creating dynamic and interactive web applications by asynchronously sending and receiving data from a web server without reloading the entire page.
+- **Axios**: Expeience in using Axios, a promise-based HTTP client for making asynchronous requests in JavaScript applications. Axios is utilized for fetching data from APIs, posting data to servers, and handling responses in a concise and efficient manner. This skill enhances the ability to create dynamic and interactive web applications by seamlessly interacting with backend servers without reloading the entire page.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=zhackdtech&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zhackdtech&theme=dark&hide_border=false)<br/>
