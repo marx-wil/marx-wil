@@ -1,6 +1,6 @@
 # 🤵About Me
 
-Hello! 👋 I’m Wilmarx, an IT Professional with a keen interest in web development and a fervent passion for crafting innovative solutions.
+Hello! 👋 I’m Wilmarx, an experienced IT Personnel and Web Developer with a strong background in designing, implementing, and maintaining web applications and IT infrastructure. Proficient in various programming languages, web technologies, and system administration. Adept at problem-solving and optimizing system performance to meet business needs with a proven track record of successfully managing projects and delivering high-quality solutions in fast-paced environments.
 
 ## 🤵Professional Background
 
