@@ -76,9 +76,9 @@ Driven by my enthusiasm for technology and a desire to expand my skill set, I am
 - **AJAX (Asynchronous JavaScript and XML)**: Expeience in technique for creating dynamic and interactive web applications by asynchronously sending and receiving data from a web server without reloading the entire page.
 - **Axios**: Expeience in using Axios, a promise-based HTTP client for making asynchronous requests in JavaScript applications. Axios is utilized for fetching data from APIs, posting data to servers, and handling responses in a concise and efficient manner. This skill enhances the ability to create dynamic and interactive web applications by seamlessly interacting with backend servers without reloading the entire page.
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zhackdtech&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=zhackdtech&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zhackdtech&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=marx-wil&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=marx-wil&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=marx-wil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zhackdtech&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
