@@ -37,9 +37,11 @@ UPTIME  : 99.9% target
 
 ## `STACK`
 
-**Languages & Runtimes**
+**Most used languages**
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marx-wil&layout=compact)
+
+**Languages & Runtimes**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
